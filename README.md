@@ -1,4 +1,4 @@
-# sql-challenge
+SQL CHALLENGE Author Jyothi Palle
 # Data Modeling
  table schemas provided for all tables.
 # Data Engineeing 
